@@ -1,0 +1,37 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It helped because I was able to compare much smaller pieces of code and only look at pieces that were different instead of everything.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If you make a mistake you can backtrack instead of just creating workarounds that will likely compound the problem.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    I think the pros are that is gives you more control over your project and when you would like a version saved. 
+    This makes each commit more usefull and the version history easier to read.
+    I think that the cons are that people may improperly use the system which could clutter your project or defeat the purpose of git by not committing enough. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I think it is a mechanism that also declutters the revision history by interconnecting commits if the revisions are pertinent to each other. 
+    Other platforms are likely made to be simpler and are meant for use with a single file.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log and git diff are like their own scripts within git that allow you to view the log of commits to the repo over time and view the differences between two commits in the repo.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I would feel more confident making changes because i know that i can just revert back to an earlier commit. No big deal.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to try and use git to create version control for use wiht my startup. Im hoping to use what i learn for use with guthub and change to bitbucket, but thats another topic.
+    
