@@ -27,3 +27,6 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+	Automatic mergin allows you to simply compare and automatically merge any non-conflicting differences between code bases.
+	A setback could occur if there is too big of a difference between the two branches. In that case manual merging may be a better option.
